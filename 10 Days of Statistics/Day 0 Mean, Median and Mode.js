@@ -30,5 +30,5 @@ for (let keys in obj) {
         val = keys;
     }
   }
-  console.log(val);  // 3rd OUTPUT: MEDIAN
+  console.log(val);  // 3rd OUTPUT: MODE
 }
